@@ -20,6 +20,6 @@ I learned Go and Rust the hard way — on the job, under deadline, because the p
 
 ---
 
-<img src="https://streak-stats.demolab.com/?user=c-jain&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=c-jain&theme=dark&hide_border=true&cache=2" alt="GitHub streak" height="165"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=c-jain&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
